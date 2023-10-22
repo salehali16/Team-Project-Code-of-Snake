@@ -624,6 +624,7 @@ def main():
         'c': ['change', 'celebration', 'clean', 'close'],
         'd': ['delete'],
         'e': ['exit'],
+        'g': ['goodbye'],
         'f': ['find'],
         'h': ['helper'],
         'n': ['notebook'],
