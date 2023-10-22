@@ -599,7 +599,7 @@ def handle_command(address_book, command):
         return "How can I help you?"
 
     elif action in ["goodbye", "close", "exit"]:
-        return "Good bye!"
+        return "Good bye! Yave a nice day"
 
     elif action == "clean":
         clean_folder_interface()
@@ -656,7 +656,7 @@ def main():
 
         if user_input.lower() in ["goodbye", "close", "exit"]:
             address_book.save_to_file()  # Save the data before exiting
-            # print("Good bye!")
+            #print("Good bye!")
             break  # Exit the loop and end the program
 
        
