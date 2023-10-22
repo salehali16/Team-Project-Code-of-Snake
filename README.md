@@ -1,2 +1,1 @@
-# Team-Project-Code-of-Snake
-Python language
+# Team-Project-Code-of-Snake-
